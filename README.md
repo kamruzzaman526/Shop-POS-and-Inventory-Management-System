@@ -21,7 +21,7 @@ Desktop Application by JAVA
 ![aa5](https://github.com/kamruzzaman526/Shop-POS-and-Inventory-Management-System/assets/79442039/a37b18ff-849e-42f4-bc44-987830e64847)
 ##
 ![aa6](https://github.com/kamruzzaman526/Shop-POS-and-Inventory-Management-System/assets/79442039/30b00dd3-269c-49fc-823f-ba8aa65217d0)
-##
+## money receipt
 ![aa7](https://github.com/kamruzzaman526/Shop-POS-and-Inventory-Management-System/assets/79442039/edb7cce9-dbd5-420d-87f4-f1ec384a605b)
 ##
 ![aa8](https://github.com/kamruzzaman526/Shop-POS-and-Inventory-Management-System/assets/79442039/8ab722b9-a63b-49b4-9681-1ca2557950e8)
