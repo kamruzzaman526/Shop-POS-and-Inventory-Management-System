@@ -1,5 +1,5 @@
 # Shop-POS-and-Inventory-Management-System
-Desktop Application by JAVA
+Desktop Application by JAVA. This system can use keyboard shortcut.
 
 
 ## screen shots
