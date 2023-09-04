@@ -27,7 +27,7 @@ Desktop Application by JAVA
 ![aa8](https://github.com/kamruzzaman526/Shop-POS-and-Inventory-Management-System/assets/79442039/8ab722b9-a63b-49b4-9681-1ca2557950e8)
 ##
 ![aa10](https://github.com/kamruzzaman526/Shop-POS-and-Inventory-Management-System/assets/79442039/62d4e950-de4c-42ce-a808-150ee8bb5004)
-##
+## manager will able to see who is selling now !!!!
 ![aa11](https://github.com/kamruzzaman526/Shop-POS-and-Inventory-Management-System/assets/79442039/f12fb205-3517-49c4-9381-9e76512409fb)
 ##
 ![aa9 5](https://github.com/kamruzzaman526/Shop-POS-and-Inventory-Management-System/assets/79442039/f75331cd-c9bd-465b-a7f4-25e8f47706d4)
